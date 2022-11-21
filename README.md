@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+I am a **Robotics Engineer** with experience in industrial automation systems. I recently completed an **MSc in Artificial Intelligence** and I enjoy developing AI projects and leveraging my expertise.
+
+* 🔭 I’m currently working on numerous Machine/Deep learning projects.
+* 🌱 I’m currently learning Python, SQL, ETL processes, Statistical modelling, Data Analysis/visualization/Discretization, Classification, Regression.
+* 👯 I’m looking to collaborate on variant AI projects.
+* 📫 How to reach me: [dim.delikonstantis@hotmail.com](mailto:dim.delikonstantis@hotmail.com?subject=[GitHub])
