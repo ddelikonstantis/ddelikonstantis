@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 <!--
 **ddelikonstantis/ddelikonstantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+### About me
 I am Dimitris, a Robotics Engineer with experience in industrial automation systems. I recently completed an MSc in Artificial Intelligence and I enjoy developing AI projects.
 
 * 🌱 I’m currently learning Machine/Deep learning, Python, SQL, ETL processes, Statistical modelling, Data Analysis/visualization/Discretization, Classification, Regression and much more.
