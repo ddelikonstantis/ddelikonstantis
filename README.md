@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ### About me
 I am Dimitris, a Robotics Engineer with experience in industrial automation systems. I recently completed an MSc in Artificial Intelligence and I enjoy developing AI projects.
 
-* 🌱 I’m currently learning Machine/Deep learning, Python, SQL, ETL processes, Statistical modelling, Data Analysis/visualization/Discretization, Classification, Regression and much more.
+* 🌱 I’m currently learning Machine/Deep learning, Python, SQL, ETL processes, Statistical modelling, Data Analysis/Visualization/Discretization, Classification, Regression and much more.
 * 👯 I’m looking to collaborate on variant AI projects.
 * 📫 How to reach me: [dim.delikonstantis@hotmail.com](mailto:dim.delikonstantis@hotmail.com?subject=[GitHub])
