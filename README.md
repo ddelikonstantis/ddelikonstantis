@@ -1,23 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Dimitris Delikonstantis 👋
 
-<!--
-**ddelikonstantis/ddelikonstantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently, I work as a Machine Learning Engineer for Prometronics.
 
-Here are some ideas to get you started:
+My work mainly involves Python programming applied in Machine learning and Deep learning, focusing on Computer vision and statistical data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: Python
+- **Frameworks**: PyTorch, Scikit-learn, Pandas, NumPy, SciPy, FastAPI, MongoDB
+- **Tools**: Jupyter, Docker, Git
+- **Cloud**: MinIO
 
-### About me
-I am Dimitris, a Robotics Engineer with experience in industrial automation systems. I recently completed an MSc in Artificial Intelligence and I enjoy developing AI projects.
-
-* 🌱 I’m currently learning Machine/Deep learning, Python, SQL, ETL processes, Statistical modelling, Data Analysis/Visualization/Discretization, Classification, Regression and much more.
-* 👯 I’m looking to collaborate on variant AI projects.
-* 📫 How to reach me: [dim.delikonstantis@hotmail.com](mailto:dim.delikonstantis@hotmail.com?subject=[GitHub])
+## 📫 Contact
+- [LinkedIn](www.linkedin.com/in/ddelikonstantis)
+- [Email](mailto:dim.delikonstantis@hotmail.com)
